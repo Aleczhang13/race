@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://zhangchenbin@121.48.165.41:10009/home/zhangchenbin/anaconda3/envs/py36/bin/python3.5" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://zhangchenbin@121.48.165.41:10009/home/zhangchenbin/anaconda3/envs/py36/bin/python3.5">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangchenbin/code/comatch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
